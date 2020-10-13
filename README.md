@@ -27,10 +27,7 @@ LSTM va nous permettre de faire la  prediction des prix fermermetures.
 
 ## Modèle NLP 
 Recueillir des news sur nos 3 sociétés en analysant le sentiment de chaque news. 
-
-## Heroku Deployment
-
- [Cliquez ici](). 
+ 
  
 ## Web app
 Nous avons utilisé Streamlit, pour visualiser l'historiques des prix, la prediction des prix de fermetures et la stratégie trading. 
